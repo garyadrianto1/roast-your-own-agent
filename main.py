@@ -9,8 +9,8 @@ import os
 import sys
 
 LINE = (
-    "I asked my agent to be brave. It renamed a file, called it "
-    "'final_final_v2', and asked me to approve its own courage."
+    "I told my agent to take a risk. It renamed a file "
+    "'final_final_v2_REAL' and asked me to sign off on its bravery."
 )
 
 
